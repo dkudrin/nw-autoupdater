@@ -21,6 +21,9 @@
     "decompress-targz": "^4.0.0",
     "decompress-zip": "^0.3.0",
     "fs-extra": "^2.1.2",
-    "semver": "^5.3.0"
+    "install": "^0.10.2",
+    "npm": "^5.5.1",
+    "semver": "^5.3.0",
+    "win-spawn": "^2.0.0"
   }
 }

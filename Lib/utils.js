@@ -1,5 +1,5 @@
-const fs = require( "fs-extra" ),
-      { spawn } = require( "child_process" );
+const fs = require( "fs-extra" )
+const spawn = require( "win-spawn" )
 /**
   * Remove trailing slash
   * @param {string} dir
